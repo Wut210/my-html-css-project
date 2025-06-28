@@ -1,0 +1,56 @@
+body{
+    font-family: sans-serif;
+   background-image: url(wedding\ dress.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 200vh;
+   margin: 0;
+   padding: 0;
+
+}
+div h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+}
+div form{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: justify;
+    text-decoration: none;
+    margin: 0 10px;
+    color: #fff;
+    line-height: 50px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   width: 100%;
+
+}
+.cotainer {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+    color: #fff;
+}
+div p{
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    color: #fff;
+    
+}
+.footer{
+    width: 1165px;
+    height: 50px;
+    text-align: center;
+    color: #fff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}

@@ -1,0 +1,79 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+    background-image: url(wedding\ dress.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: #e9c9b3
+    height: 80px;
+    width: 100%;
+}
+label.logo{
+    color: white;
+    font-size: 50px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+nav ul{
+    float: right;
+    margin-right: 80px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+nav ul li a{
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    letter-spacing: normal;
+}
+div{
+    text-align: justify;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin-left: 80PX;
+    display: inline-block;
+    margin: 0 100px;
+    text-decoration: none;
+
+}
+div ul{
+    float: left;
+    margin-left: 100px;
+}
+div ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+div ul li a{
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    background-color: #f8f8ff;
+    border-radius: 30px;
+    width: 100px;
+    height: 30px;
+    padding: 20px;
+    color: #e9c9b3;
+}
